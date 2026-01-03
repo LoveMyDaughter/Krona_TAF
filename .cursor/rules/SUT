@@ -1,0 +1,2 @@
+System Under Test (SUT) is located locally at \\wsl$\Ubuntu\home\atsvi\Sketch-Engine. You should be able to review the current state of this repo anytime when I ask about the SUT.
+The SUT repo is regularly updated by the external process (like git pull), so based on the current SUT data the main project (Krona_TAF) will be updating.
